@@ -5,4 +5,4 @@ The project was designed in Android Studio while the program was written in Java
 
 
 Here are some images of the game:
-![image_alt]([image_url](https://github.com/EthanB-03/Cargo-Quest/blob/fe15c8fadcb41ac633120fde0a1b2895a05ba260/Images/Game_TruckSelect.png))
+![Image](https://github.com/user-attachments/assets/6e0b3e3f-8a65-4d19-83c0-827f22336250)
