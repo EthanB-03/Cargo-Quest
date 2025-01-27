@@ -5,4 +5,14 @@ The project was designed in Android Studio while the program was written in Java
 
 
 Here are some images of the game:
-![Image](https://github.com/user-attachments/assets/6e0b3e3f-8a65-4d19-83c0-827f22336250)
+![Image](https://github.com/user-attachments/assets/c0ab0b96-a920-46c1-82b3-0712dbada901)
+
+![Image](https://github.com/user-attachments/assets/16e84eda-7216-4083-810b-7452b54f3fd8)
+
+![Image](https://github.com/user-attachments/assets/0d259a77-a26a-497e-85d5-9e8a0c9aca9a)
+
+![Image](https://github.com/user-attachments/assets/2861966d-bfda-4f8f-9b77-7d5c8c20dacd)
+
+![Image](https://github.com/user-attachments/assets/bbe262b5-19f1-4b97-a4d5-ea90e98a4a38)
+
+![Image](https://github.com/user-attachments/assets/d4d35c75-b4fb-418b-8de6-ff0ae890b51f)
