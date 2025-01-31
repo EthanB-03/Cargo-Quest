@@ -16,3 +16,5 @@ Here are some images of the game:
 ![Image](https://github.com/user-attachments/assets/bbe262b5-19f1-4b97-a4d5-ea90e98a4a38)
 
 ![Image](https://github.com/user-attachments/assets/d4d35c75-b4fb-418b-8de6-ff0ae890b51f)
+
+The entire game game be viewed by downloading the Maze.zip file.
