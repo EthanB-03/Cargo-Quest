@@ -3,6 +3,7 @@ For my mobile app development class, I created a maze-based game in Android Stud
 
 The project was designed in Android Studio while the program was written in Java. The use of XML was minimal, and all game objects were designed by hand. Overall, the project was a great experience that allowed me to create a fun game that I still have on my phone. Although it wasn’t as in-depth as I would’ve liked, it is still a fully functional game that can be played and enjoyed.
 
+The entire game game be viewed by downloading the Maze.zip file.
 
 Here are some images of the game:
 ![Image](https://github.com/user-attachments/assets/c0ab0b96-a920-46c1-82b3-0712dbada901)
@@ -16,5 +17,3 @@ Here are some images of the game:
 ![Image](https://github.com/user-attachments/assets/bbe262b5-19f1-4b97-a4d5-ea90e98a4a38)
 
 ![Image](https://github.com/user-attachments/assets/d4d35c75-b4fb-418b-8de6-ff0ae890b51f)
-
-The entire game game be viewed by downloading the Maze.zip file.
